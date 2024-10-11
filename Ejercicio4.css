@@ -1,0 +1,40 @@
+h1 {
+    color: red;
+
+}
+
+.fondo {
+    background-color: grey;
+    width: 56%;
+}
+
+h2 {
+    text-align: center;
+    margin: 10px;
+    position: relative;
+    top: 28%;
+
+}
+
+#trabajador1 {
+    color: blue;
+}
+
+#trabajador2 {
+    color: green;
+}
+div.datos{
+border: 2px solid black;
+}
+div.estudios{
+border: 2px solid black;
+padding:0;
+}
+.header{
+    height: 60px;
+    
+}
+.border{
+    border: 2px solid black;
+    margin: 1px;
+}
